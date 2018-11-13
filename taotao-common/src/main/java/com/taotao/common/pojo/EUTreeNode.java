@@ -1,6 +1,6 @@
 package com.taotao.common.pojo;
 /**
- * easyUI树形控件节点格式，添加数据的时候用到了
+ * easyUI树形控件节点格式，添加数据的时候用到了； 这些格式是easyUI要求的
  * <p>Title: EUTreeNode</p>
  * <p>Description: </p>
  * <p>Company: www.itcast.com</p> 
